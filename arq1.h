@@ -1,0 +1,23 @@
+/* 
+ * File:   arq1.h
+ * Author: alex
+ *
+ * Created on 30 de Agosto de 2024, 16:34
+ */
+
+#ifndef ARQ1_H
+#define	ARQ1_H
+
+#ifdef	__cplusplus
+extern "C" {
+#endif
+
+
+
+
+#ifdef	__cplusplus
+}
+#endif
+
+#endif	/* ARQ1_H */
+
