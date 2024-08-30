@@ -3,6 +3,9 @@
  * Author: alex
  *
  * Created on 30 de Agosto de 2024, 16:34
+ * 
+ * usu1 modificado.
+ * 
  */
 
 #ifndef ARQ1_H
