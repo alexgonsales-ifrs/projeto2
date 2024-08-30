@@ -12,6 +12,8 @@
  * alex modificado 008.
  * alex modificado 009.
  * 
+ * usu1 modificado 010.
+ * 
  */
 
 #ifndef ARQ1_H
