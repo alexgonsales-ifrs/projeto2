@@ -6,6 +6,8 @@
  * 
  * usu1 modificado.
  * 
+ * alex modificado.
+ * 
  */
 
 #ifndef ARQ1_H
